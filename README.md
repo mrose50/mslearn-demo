@@ -2,4 +2,4 @@
 
 This is my Github project. I published it directly from Visual Studio Code test 123.
 
-Adding more things. 
+Removing things.
